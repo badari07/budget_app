@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://badari07.github.io/budget_app",
+  "homepage": "https://badari07.github.io/budget_app",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
